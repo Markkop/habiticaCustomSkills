@@ -11,7 +11,7 @@
 
 ## Motivation
 
-While using Habitica to organize myself I ended up **outleveling my friends** and wondered how I could adjust my leveling process to keep up with the party.  
+While using Habitica to organize myself I ended up **outleveling my friends** and wondered how I could adjust my leveling process to keep up with the party.
 That's how this project begins. By creating new skills and **consuming experience points** , I've slow down my leveling in exchange for other resources such hp, Then I got pretty hyped to expand these customizations even further with other people contributions and transformed a single script file in this cool **custom suite**. We even have badges!
 
 ## How to install these scripts
@@ -25,25 +25,24 @@ That's how this project begins. By creating new skills and **consuming experienc
 
 ### 🍅 habiticaPomodoro
 
-Transforms a task named **#pomodoro** to a Pomodoro Timer.\
-It emits a **sound** after each time interval and at the end of the last, it **scores** a good habit on Habitica.\
-Both time intervals can be customized.\
-**[Click here](https://github.com/Markkop/habiticaScripts/raw/master/dist/habiticaPomodoro.user.js) to install**
+Transforms a task named **#pomodoro** to a Pomodoro Timer. It emits a **sound** after each time interval and at the end of the last, it **scores** a good habit on Habitica. Both time intervals can be customized.
 
+**[Click here](https://github.com/Markkop/habiticaScripts/raw/master/dist/habiticaPomodoro.user.js) to install**
 <img src="https://i.imgur.com/73GEP1U.gif"/>
 
 ### 🔮 habiticaCustomSkills
 
-Get new customizable **skills** for your class.\
-It's possibile to consume or reward **hp**, **mana**, **exp** and **gold**.\
-Modifiers can be **flat**, **%max**, **%current** or **random** values.\
-**[Click here](https://github.com/Markkop/habiticaScripts/raw/master/dist/habiticaCustomSkills.user.js) to install**
+Get new customizable **skills** for your class. It's possibile to consume or reward **hp**, **mana**, **exp** and **gold**. Modifiers can be **flat**, **%max**, **%current** or **random** values.
 
+**[Click here](https://github.com/Markkop/habiticaScripts/raw/master/dist/habiticaCustomSkills.user.js) to install**
 <img src="https://i.imgur.com/HMcUVEq.png"/>
 
 ### ⌨️ habiticaShortcuts
 
-Soon™️
+Bang! Using the keyboard we went to the moon! With shortcuts we can reacha series of places that make our lives easier!
+
+**[Click here](//:nope.com/Markkop/habiticaScripts/raw/master/dist/habiticaCustomSkills.user.js) to install**
+<img src="https://i.imgur.com/nope.png"/>
 
 ## How to develop
 

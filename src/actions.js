@@ -28,6 +28,7 @@ inquirer
             name: 'script',
             message: "Select which script you'd like to work with",
             choices: [
+                { name: 'habiticaChat' },
                 { name: 'habiticaCustomSkills' },
                 { name: 'habiticaShortcuts' },
                 { name: 'habiticaPomodoro' },
